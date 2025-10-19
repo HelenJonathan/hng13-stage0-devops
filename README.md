@@ -8,3 +8,4 @@
 This project demonstrates how to deploy an NGINX web server for the HNG13 DevOps Stage 0 task.
 
 ## Server Information
+**Server IP:** http://172.232.6.96/
